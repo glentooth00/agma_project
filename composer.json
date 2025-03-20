@@ -1,0 +1,10 @@
+{
+    "name": "agma/agma_project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Agma\\AgmaProject\\": "app/"
+        }
+    },
+    "require": {}
+}
