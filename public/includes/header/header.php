@@ -47,3 +47,14 @@
 
 </head>
 <body>
+
+        <div class="shadow-sm bg-body p-2 col-md-12 mb-5">
+            <div class="col-md-6 d-flex p-1">
+                <div class="text-white">
+                    <img src="resources/images/logo2.png" width="70px"/>
+                </div>
+                <div class="p-1">
+                <h6 class="display-5" x-data="{ message: 'WEB-APP'}" x-text="message"></h6>
+                </div>
+            </div>
+        </div>
